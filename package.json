@@ -1,0 +1,12 @@
+{
+  "name": "flight",
+  "version": "1.0.0",
+  "description": "This is a full-stack web application using React (TypeScript) for the frontend and Flask for the backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
